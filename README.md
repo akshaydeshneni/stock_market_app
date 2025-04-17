@@ -52,7 +52,7 @@ This application provides a comprehensive platform for analyzing and forecasting
 - Enhance UI/UX with additional interactive features.
 
 ## License
-This project is licensed under the MIT License.
+
 
 ## Acknowledgments
 - [Yahoo Finance](https://finance.yahoo.com/) for stock data.
